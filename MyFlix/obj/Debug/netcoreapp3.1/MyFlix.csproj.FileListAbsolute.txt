@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.Form1.resources
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.csproj.GenerateResource.cache
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\bin\Debug\netcoreapp3.1\MyFlix.exe
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\bin\Debug\netcoreapp3.1\MyFlix.deps.json
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\bin\Debug\netcoreapp3.1\MyFlix.runtimeconfig.json
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\bin\Debug\netcoreapp3.1\MyFlix.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\bin\Debug\netcoreapp3.1\MyFlix.dll
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\bin\Debug\netcoreapp3.1\MyFlix.pdb
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.dll
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.pdb
+C:\Users\1\source\repos\exercises\MyFlix\MyFlix\obj\Debug\netcoreapp3.1\MyFlix.genruntimeconfig.cache
